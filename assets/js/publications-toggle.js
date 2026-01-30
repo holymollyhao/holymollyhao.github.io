@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("publications-toggle-switch"),t=document.getElementById("selected-publications"),n=document.getElementById("all-publications");e&&t&&n&&e.addEventListener("change",function(){this.checked?(t.style.display="none",n.style.display="block"):(t.style.display="block",n.style.display="none")})});
