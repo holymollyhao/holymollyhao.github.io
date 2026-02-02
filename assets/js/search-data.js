@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/cv.pdf";
           },
         },{id: "news-new-preprint-dnachunker-is-out",
           title: 'New Preprint - DNAChunker is out',
