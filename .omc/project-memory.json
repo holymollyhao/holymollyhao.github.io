@@ -1,0 +1,210 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776519265482,
+  "projectRoot": "/Users/maxkim139/SPML Dropbox/Tae won Kim/HomePage/holymollyhao.github.io",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "Python",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "requirements.txt"
+        ]
+      },
+      {
+        "name": "Ruby",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "Gemfile"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "bundler",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "assets"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "_bibliography": {
+      "path": "_bibliography",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1776519265455,
+      "keyFiles": [
+        "papers.bib"
+      ]
+    },
+    "_data": {
+      "path": "_data",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1776519265455,
+      "keyFiles": [
+        "citations.yml",
+        "coauthors.yml",
+        "cv.yml",
+        "socials.yml",
+        "venues.yml"
+      ]
+    },
+    "_includes": {
+      "path": "_includes",
+      "purpose": null,
+      "fileCount": 16,
+      "lastAccessed": 1776519265460,
+      "keyFiles": [
+        "bib_search.liquid",
+        "citation.liquid",
+        "distill_scripts.liquid",
+        "figure.liquid",
+        "footer.liquid"
+      ]
+    },
+    "_layouts": {
+      "path": "_layouts",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1776519265460,
+      "keyFiles": [
+        "about.liquid",
+        "bib.liquid",
+        "cv.liquid",
+        "default.liquid",
+        "page.liquid"
+      ]
+    },
+    "_news": {
+      "path": "_news",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1776519265460,
+      "keyFiles": [
+        "announcement_1.md",
+        "announcement_2.md",
+        "announcement_3.md"
+      ]
+    },
+    "_pages": {
+      "path": "_pages",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1776519265461,
+      "keyFiles": [
+        "about.md",
+        "cv.md",
+        "publications.md"
+      ]
+    },
+    "_plugins": {
+      "path": "_plugins",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1776519265461,
+      "keyFiles": [
+        "file-exists.rb",
+        "google-scholar-citations.rb",
+        "hide-custom-bibtex.rb",
+        "inspirehep-citations.rb",
+        "remove-accents.rb"
+      ]
+    },
+    "_sass": {
+      "path": "_sass",
+      "purpose": null,
+      "fileCount": 11,
+      "lastAccessed": 1776519265461,
+      "keyFiles": [
+        "_components.scss",
+        "_cv.scss",
+        "_fonts.scss",
+        "_footer.scss",
+        "_layout.scss"
+      ]
+    },
+    "_scripts": {
+      "path": "_scripts",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1776519265461,
+      "keyFiles": [
+        "giscus-setup.js",
+        "photoswipe-setup.js",
+        "search.liquid.js"
+      ]
+    },
+    "assets": {
+      "path": "assets",
+      "purpose": "Static assets",
+      "fileCount": 0,
+      "lastAccessed": 1776519265462,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "_news/announcement_1.md",
+      "accessCount": 1,
+      "lastAccessed": 1776519354690,
+      "type": "file"
+    },
+    {
+      "path": "_news/announcement_2.md",
+      "accessCount": 1,
+      "lastAccessed": 1776519355461,
+      "type": "file"
+    },
+    {
+      "path": "_news/announcement_3.md",
+      "accessCount": 1,
+      "lastAccessed": 1776519355553,
+      "type": "file"
+    },
+    {
+      "path": "_news/announcement_4.md",
+      "accessCount": 1,
+      "lastAccessed": 1776519359362,
+      "type": "file"
+    },
+    {
+      "path": "_news/announcement_5.md",
+      "accessCount": 1,
+      "lastAccessed": 1776519445010,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
