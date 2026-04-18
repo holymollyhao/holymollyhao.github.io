@@ -32,6 +32,12 @@ ninja.data = [{
           section: "News",},{id: "news-meld-has-been-accepted-at-iclr-26",
           title: 'MELD has been accepted at ICLR 26’',
           description: "",
+          section: "News",},{id: "news-dnachunker-has-been-accepted-at-mlgenx-iclr-2026-as-oral-presentation",
+          title: 'DNAChunker has been accepted at MLGenX@ICLR 2026 as Oral Presentation',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-going-to-rio-for-iclr-2026-brazil",
+          title: 'I’ll be going to Rio for ICLR 2026 :brazil:',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
