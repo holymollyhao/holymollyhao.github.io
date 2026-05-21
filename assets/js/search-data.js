@@ -23,10 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/cv.pdf";
           },
-        },{id: "news-new-preprint-dnachunker-is-out",
-          title: 'New Preprint - DNAChunker is out',
-          description: "",
-          section: "News",},{id: "news-sicl-has-been-accepted-at-wacv-26",
+        },{id: "news-sicl-has-been-accepted-at-wacv-26",
           title: 'SICL has been accepted at WACV 26’',
           description: "",
           section: "News",},{id: "news-meld-has-been-accepted-at-iclr-26",
@@ -37,6 +34,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-ll-be-going-to-rio-for-iclr-2026-brazil",
           title: 'I’ll be going to Rio for ICLR 2026 :brazil:',
+          description: "",
+          section: "News",},{id: "news-dnachunker-has-been-accepted-at-icml-26-kr-check-out-our-demo-page",
+          title: 'DNAChunker has been accepted at ICML 26’ :kr: (check out our demo page)...',
           description: "",
           section: "News",},{
         id: 'social-github',
