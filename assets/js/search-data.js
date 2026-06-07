@@ -38,6 +38,9 @@ ninja.data = [{
           section: "News",},{id: "news-dnachunker-has-been-accepted-at-icml-26-kr-check-out-our-demo-page",
           title: 'DNAChunker has been accepted at ICML 26’ :kr: (check out our demo page)...',
           description: "",
+          section: "News",},{id: "news-new-preprint-triprorep-atom-level-protein-representation-learning-improves-protein-structure-prediction-check-out-the-project-page-and-models-amp-amp-datasets-hugs",
+          title: 'New preprint TriProRep: atom-level protein representation learning improves protein structure prediction (check out...',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
