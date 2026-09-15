@@ -41,6 +41,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-triprorep-atom-level-protein-representation-learning-improves-protein-structure-prediction-check-out-the-project-page-and-models-amp-amp-datasets-hugs",
           title: 'New preprint TriProRep: atom-level protein representation learning improves protein structure prediction (check out...',
           description: "",
+          section: "News",},{id: "news-k-fold-is-now-in-preview-team-kaist-s-government-backed-effort-to-surpass-alphafold-3-uses-our-triprorep-for-protein-structure-representations-kr",
+          title: 'K-Fold is now in preview! Team KAIST’s government-backed effort to surpass AlphaFold 3...',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
