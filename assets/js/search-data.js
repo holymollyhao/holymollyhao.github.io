@@ -44,6 +44,12 @@ ninja.data = [{
           section: "News",},{id: "news-k-fold-is-now-in-preview-team-kaist-s-government-backed-effort-to-surpass-alphafold-3-uses-our-triprorep-for-protein-structure-representations-kr",
           title: 'K-Fold is now in preview! Team KAIST’s government-backed effort to surpass AlphaFold 3...',
           description: "",
+          section: "News",},{id: "news-new-preprint-soupfold-co-folding-with-a-soup-of-representations-with-code",
+          title: 'New preprint: SoupFold: Co-folding with a Soup of Representations, with code.',
+          description: "",
+          section: "News",},{id: "news-triprorep-has-been-accepted-at-neurips-2026",
+          title: 'TriProRep has been accepted at NeurIPS 2026.',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
